@@ -1,3 +1,3 @@
 # PomodoroTimer
 Demo Project
-Tet project for GitHub Comm
+Tet project for GitHub Community
