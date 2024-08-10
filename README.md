@@ -1,3 +1,3 @@
 # PomodoroTimer
 Demo Project
-Test 1
+Test project for GitHub Community
